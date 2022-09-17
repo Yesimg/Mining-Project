@@ -1,3 +1,3 @@
 # Projects
 
-My projects for practise
+My projects for practice
